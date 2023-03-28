@@ -9,6 +9,12 @@ secartary and the manager**
 the backend end is developed with **express** and **nodejs** while the **file system** is used as database.  
 ### Frontend :
 the frontend is developed with reactjs and redux to keep tracking of the changes.
-
-![page1](https://photos.app.goo.gl/W3dDmYe54bAYV8zj8)
 Secartary page : 
+![page1](./documentation/home.png)
+**------------------------------------------------------------------------------------------------------------------------------**
+Secartary page expanded :
+![page2](./documentation/home2.png)
+
+manager office page:
+![page3](./documentation/away.png)
+
