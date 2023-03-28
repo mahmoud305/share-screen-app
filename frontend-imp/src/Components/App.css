@@ -1,0 +1,29 @@
+.logoDiv{
+    width: 10rem;
+    height: 10rem;
+    position: absolute;
+    margin: 20px;
+    top: 0%;
+    left: 0%;
+}
+.logoDiv img{
+    animation: rotation 5s infinite linear;
+    -webkit-animation: rotation 5s infinite linear;
+}
+
+@keyframes rotation {
+    from {
+      transform: rotateY(0deg);
+      -webkit-transform: rotateY(0deg);
+      -moz-transform: rotateY(0deg);
+      -ms-transform: rotateY(0deg);
+      -o-transform: rotateY(0deg);
+}
+    to {
+      transform: rotateY(359deg);
+      -webkit-transform: rotateY(359deg);
+      -moz-transform: rotateY(359deg);
+      -ms-transform: rotateY(359deg);
+      -o-transform: rotateY(359deg);
+}
+  }

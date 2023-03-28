@@ -1,0 +1,22 @@
+.layer{
+    position: absolute;
+    width: 100%;
+    top: 0%;
+    bottom: 0%;
+    left: 0%;
+    right: 0%;
+background-color: rgba(0, 0, 0, 0.3) !important;
+display: flex;
+justify-content: center;
+align-items: center;
+z-index: 999;
+}
+
+.wid{
+    margin: auto !important ;
+    /* background: #000; */
+    font-size: 50px !important;
+    /* color: #FFF; */
+    height: 100% !important;
+    font-weight: bold ;
+}
