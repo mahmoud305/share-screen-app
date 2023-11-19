@@ -2,8 +2,7 @@
 #### **Be sure it is Suitable for your office** 
 
 ## Objective :
-**Facilitates the secartary work, enables the secartary to take permission for the visitors to get in the manager office without real contact betwwen the
-secartary and the manager**
+**Facilitates the secretary work, enables the secretary to take permission for the visitors to get in the manager office without real contact between the secretary and the managerr**
 
 ### Backend :
 the backend end is developed with **express** and **nodejs** while the **file system** is used as database.  
